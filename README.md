@@ -48,6 +48,8 @@ We propose **MediScopeDiffusion**, a diffusion-based classification framework th
 
 <img width="1244" height="447" alt="image" src="https://github.com/user-attachments/assets/6079562e-a62a-450a-bba5-5e5d2f90ba40" />
 <img width="1241" height="616" alt="image" src="https://github.com/user-attachments/assets/28f7f500-3764-4970-ab61-cc371859a247" />
+<img width="1256" height="658" alt="image" src="https://github.com/user-attachments/assets/361e2e2f-e2b8-47f6-8e2e-606e818a865a" />
+
 
 
 Our approach consists of four core innovations:
