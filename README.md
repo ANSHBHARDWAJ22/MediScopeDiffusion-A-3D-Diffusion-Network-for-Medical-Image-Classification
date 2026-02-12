@@ -46,6 +46,10 @@ We propose **MediScopeDiffusion**, a diffusion-based classification framework th
 
 ## Methodology
 
+<img width="1244" height="447" alt="image" src="https://github.com/user-attachments/assets/6079562e-a62a-450a-bba5-5e5d2f90ba40" />
+<img width="1241" height="616" alt="image" src="https://github.com/user-attachments/assets/28f7f500-3764-4970-ab61-cc371859a247" />
+
+
 Our approach consists of four core innovations:
 
 ### 1. **Dual-Granularity Conditional Guidance (DCG)**
